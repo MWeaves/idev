@@ -1,11 +1,16 @@
 <!doctype html>
 <html>
 <title>Site name here</title>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 
 
 <body>
 	<h1>Mike Weaver</h1>
 
+	
+	
+	
+	 <script src="js/script.js"></script>
 </body>
 </html>
